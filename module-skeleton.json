@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-business-workflow-reconciliation-a2a7004b-filament",
+  "capabilityKey": "liberusoftware/liberu-business-workflow-reconciliation",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/liberu-business-workflow-reconciliation-a2a7004b-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/automation/nextjs/liberu-business-workflow-reconciliation.md",
+  "presentationPlan": "projects/automation/filament/liberu-business-workflow-reconciliation.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
